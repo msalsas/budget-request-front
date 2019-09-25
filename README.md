@@ -1,3 +1,33 @@
+Budget request front
+====================
+
+Budget request front is a [msalsas/budget-request](https://github.com/msalsas/budget-request) client made with React.
+
+Installation
+------------
+
+First of all download [msalsas/budget-request](https://github.com/msalsas/budget-request) and follow the installation instructions.
+    
+Once the Symfony server is running execute the next commands in a new terminal:    
+    
+    git clone https://github.com/msalsas/budget-request-front.git
+
+    cd budget-request-front
+    
+    npm install
+    
+    yarn start
+    
+    That's all!
+
+Reporting an issue or a feature request
+---------------------------------------
+
+Issues and feature requests are tracked in the [Github issue tracker](https://github.com/msalsas/budget-request-front/issues).
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
